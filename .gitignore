@@ -1,0 +1,10 @@
+# Installed dependencies
+node_modules/
+
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# npm debug logs
+npm-debug.log*
